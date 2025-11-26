@@ -1,5 +1,3 @@
-# ![SATEUR Banner](https://via.placeholder.com/1200x280.png?text=SATEUR+-+The+Goofiest+Coin+on+Earth)
-
 # **SATEUR – The Goofiest Coin on Earth**
 
 ![GitHub Stars](https://img.shields.io/github/stars/your-org/your-repo?style=flat-square)
@@ -138,5 +136,3 @@ Please open an issue or submit a pull request for improvements or new feature pr
 ## 🌐 **Community & Socials**
 Telegram  : https://t.me/sateurpro
 X         : https://x.com/sateur_pro
-
-Cukup bilang — akan langsung aku buatkan.
